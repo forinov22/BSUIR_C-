@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MovieCharacters>
+  <MovieCharacter>
+    <CharacterName>Герой 1</CharacterName>
+    <Role>Главный герой</Role>
+    <Actor>
+      <ActorName>Иван Иванов</ActorName>
+      <Age>30</Age>
+      <Gender>Мужской</Gender>
+    </Actor>
+  </MovieCharacter>
+  <MovieCharacter>
+    <CharacterName>Герой 2</CharacterName>
+    <Role>Поддерживающая роль</Role>
+    <Actor>
+      <ActorName>Мария Петрова</ActorName>
+      <Age>25</Age>
+      <Gender>Женский</Gender>
+    </Actor>
+  </MovieCharacter>
+  <MovieCharacter>
+    <CharacterName>Антагонист 1</CharacterName>
+    <Role>Антагонист</Role>
+    <Actor>
+      <ActorName>Алексей Сидоров</ActorName>
+      <Age>35</Age>
+      <Gender>Мужской</Gender>
+    </Actor>
+  </MovieCharacter>
+  <MovieCharacter>
+    <CharacterName>Герой 3</CharacterName>
+    <Role>Поддерживающая роль</Role>
+    <Actor>
+      <ActorName>Елена Козлова</ActorName>
+      <Age>28</Age>
+      <Gender>Женский</Gender>
+    </Actor>
+  </MovieCharacter>
+</MovieCharacters>
