@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "ClassLib\ClassLib.csproj", "{CEC7FC23-CE5F-43D4-B541-D171A5CFA8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "253505_Forinov_Lab8", "253505_Forinov_Lab8\253505_Forinov_Lab8.csproj", "{ACE7BC78-E7DE-41B7-AAFA-5B92D17397CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC7FC23-CE5F-43D4-B541-D171A5CFA8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC7FC23-CE5F-43D4-B541-D171A5CFA8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC7FC23-CE5F-43D4-B541-D171A5CFA8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC7FC23-CE5F-43D4-B541-D171A5CFA8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE7BC78-E7DE-41B7-AAFA-5B92D17397CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE7BC78-E7DE-41B7-AAFA-5B92D17397CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE7BC78-E7DE-41B7-AAFA-5B92D17397CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE7BC78-E7DE-41B7-AAFA-5B92D17397CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

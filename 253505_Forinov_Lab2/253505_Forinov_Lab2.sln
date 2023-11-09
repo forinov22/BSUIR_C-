@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "253505_Forinov_Lab2", "253505_Forinov_Lab2.csproj", "{F6857493-4742-47E4-907E-7D6A6FA29D0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6857493-4742-47E4-907E-7D6A6FA29D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6857493-4742-47E4-907E-7D6A6FA29D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6857493-4742-47E4-907E-7D6A6FA29D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6857493-4742-47E4-907E-7D6A6FA29D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

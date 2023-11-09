@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/253505_Forinov_Lab8/253505_Forinov_Lab8.csproj": {}
+  },
+  "projects": {
+    "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/253505_Forinov_Lab8/253505_Forinov_Lab8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/253505_Forinov_Lab8/253505_Forinov_Lab8.csproj",
+        "projectName": "253505_Forinov_Lab8",
+        "projectPath": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/253505_Forinov_Lab8/253505_Forinov_Lab8.csproj",
+        "packagesPath": "/home/egor/.nuget/packages/",
+        "outputPath": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/253505_Forinov_Lab8/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/egor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/ClassLib/ClassLib.csproj": {
+                "projectPath": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/ClassLib/ClassLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "LoremNET": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/ClassLib/ClassLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/ClassLib/ClassLib.csproj",
+        "projectName": "ClassLib",
+        "projectPath": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/ClassLib/ClassLib.csproj",
+        "packagesPath": "/home/egor/.nuget/packages/",
+        "outputPath": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/ClassLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/egor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "LoremNET": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

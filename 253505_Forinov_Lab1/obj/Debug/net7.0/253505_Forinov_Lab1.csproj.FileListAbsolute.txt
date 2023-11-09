@@ -1,0 +1,15 @@
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\bin\Debug\net7.0\253505_Forinov_Lab1.exe
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\bin\Debug\net7.0\253505_Forinov_Lab1.deps.json
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\bin\Debug\net7.0\253505_Forinov_Lab1.runtimeconfig.json
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\bin\Debug\net7.0\253505_Forinov_Lab1.dll
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\bin\Debug\net7.0\253505_Forinov_Lab1.pdb
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\253505_Forinov_Lab1.csproj.AssemblyReference.cache
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\253505_Forinov_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\253505_Forinov_Lab1.AssemblyInfoInputs.cache
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\253505_Forinov_Lab1.AssemblyInfo.cs
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\253505_Forinov_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\253505_Forinov_Lab1.dll
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\refint\253505_Forinov_Lab1.dll
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\253505_Forinov_Lab1.pdb
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\253505_Forinov_Lab1.genruntimeconfig.cache
+C:\Users\forin\semester3\c#\253505_Forinov_Lab1\obj\Debug\net7.0\ref\253505_Forinov_Lab1.dll

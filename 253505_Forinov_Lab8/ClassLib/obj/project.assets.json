@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "LoremNET/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/LoremNET.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/LoremNET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoremNET/2.0.0": {
+      "sha512": "qLvVQSAqVVQKptrbw0BV0nPJoaCp4wH38BCwCUl9cD/F6U8kLqWR1FcWqk3ATg6443rDYoI8y0lQbrVk9qDLLg==",
+      "type": "package",
+      "path": "loremnet/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/LoremNET.dll",
+        "loremnet.2.0.0.nupkg.sha512",
+        "loremnet.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "LoremNET >= 2.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/egor/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/ClassLib/ClassLib.csproj",
+      "projectName": "ClassLib",
+      "projectPath": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/ClassLib/ClassLib.csproj",
+      "packagesPath": "/home/egor/.nuget/packages/",
+      "outputPath": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/ClassLib/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/egor/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "LoremNET": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

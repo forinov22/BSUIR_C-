@@ -1,0 +1,15 @@
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\bin\Debug\net7.0\SerializerLib.deps.json
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\bin\Debug\net7.0\SerializerLib.dll
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\bin\Debug\net7.0\SerializerLib.pdb
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\bin\Debug\net7.0\253505_Forinov_Lab5.Domain.dll
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\bin\Debug\net7.0\253505_Forinov_Lab5.Domain.pdb
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\SerializerLib.csproj.AssemblyReference.cache
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\SerializerLib.AssemblyInfoInputs.cache
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\SerializerLib.AssemblyInfo.cs
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\SerializerLib.csproj.CoreCompileInputs.cache
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\SerializerLib.csproj.CopyComplete
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\SerializerLib.dll
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\refint\SerializerLib.dll
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\SerializerLib.pdb
+C:\Users\forin\semester3\c#\253505_Forinov_Lab5\SerializerLib\obj\Debug\net7.0\ref\SerializerLib.dll

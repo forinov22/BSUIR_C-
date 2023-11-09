@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrtPucn1tCL9knjGYvTVY7wXeU1HCg9WEQX1VmHeZzRzo2CfvjFP5xPxqxdK1SXfNhbHs4p7jHc+4HoBbFA1ow==",
+  "success": true,
+  "projectFilePath": "/home/egor/BSUIR/semester3/c#/253505_Forinov_Lab8/253505_Forinov_Lab8/253505_Forinov_Lab8.csproj",
+  "expectedPackageFiles": [
+    "/home/egor/.nuget/packages/loremnet/2.0.0/loremnet.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
